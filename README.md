@@ -1,5 +1,22 @@
 # Produce Seasonality Price & Cash Flow Planning Analysis
 
+## Repository Structure
+```
+produce_project/
+├── dashboard/
+│   └── (screenshots)
+├── data/
+│   ├── raw/
+│   └── cleaned/
+├── notebooks/
+│   ├── data_exploration.ipynb
+│   └── cleaning.ipynb
+├── sql/
+│   ├── analysis_queries.sql
+│   └── schemas.sql
+└── README.md
+```
+
 ## Business Question
 How do wholesale prices for Avocados, Tomatoes, Romaine Lettuce, Strawberries, and Bananas change seasonally, and what does that mean for how a produce company should plan cash flow around purchasing throughout the year?
 
