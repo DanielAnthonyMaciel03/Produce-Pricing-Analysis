@@ -50,10 +50,6 @@ Avocados were the most expensive commodity on average ($45/unit), followed by Ro
 - **Bananas are the most stable and predictable** commodity to budget for year-round, since they're imported continuously from multiple countries with no single dominant growing season driving scarcity.
 - **Avocados and Tomatoes fall in the middle**. moderate seasonal swings worth planning around, but less extreme than strawberries or lettuce.
 
-## Dashboard (Power BI)
-- Bar chart: overall average price by commodity
-- Line chart with commodity slicer: monthly price trend, 2023–2025 combined
-- Bar chart: seasonal price swing (%) by commodity
 
 ## Limitations
 - This analysis identifies general seasonal pricing patterns (when prices tend to rise or fall) rather than precise, unit-normalized price points. Prices are averaged across all reported package sizes and units for each commodity; this mix is fairly consistent for Strawberries and Bananas (one package type dominates), but more fragmented for Tomatoes (7 package types, 19 size codes). As a result, the direction and approximate timing of seasonal swings are reliable, but exact percentage magnitudes should be treated as directional estimates rather than precise figures.
