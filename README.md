@@ -33,7 +33,7 @@ Loaded via a staging table to translate raw text values into proper foreign key 
 ## Key Findings
 
 **Overall average price (2023–2025, LA terminal market):**
-Avocados were the most expensive commodity on average (~$45/unit), followed by Romaine Lettuce (~$23), Strawberries (~$22), Bananas (~$21), and Tomatoes (~$20, the least expensive).
+Avocados were the most expensive commodity on average ($45/unit), followed by Romaine Lettuce ($23), Strawberries ($22), Bananas ($21), and Tomatoes ($20, the least expensive).
 
 **Seasonal price swings (cheapest month vs. most expensive month):**
 
